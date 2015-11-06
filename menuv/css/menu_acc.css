@@ -1,0 +1,3 @@
+.demo-container ul, .demo-container ul li{list-style: none;margin:0;padding:0;}
+.demo-container {padding:0; float: left; width:100%}
+.dcjq-count {float: right;}
